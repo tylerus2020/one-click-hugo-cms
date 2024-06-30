@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "您梦想中的ADU，用心建造"
+subtitle: 为您的房产打造美观实用的空间。
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: 为什么选择我们？
+    text: "我们是一支经验丰富的 ADU 建筑团队，致力于打造高品质、可持续且个性化的空间，完美契合您的房产和生活方式。"
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "我们提供什么"
+    text: "从最初的设计到最终的建造，我们将始终伴您左右。我们认真倾听您的需求，提供专业的指导，并交付卓越的成果，将您的 ADU 梦想变为现实。"
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/illustrations-design.svg
+      text: "我们提供全面的设计服务，采用创新和可持续的建筑实践，打造兼具美观和功能性的 ADU。我们将与您携手合作，设计出满足您独特需求和风格的空间。"
+    - image: /img/illustrations-construction.svg
+      text: "我们经验丰富的团队负责施工的各个方面，确保对细节一丝不苟，并致力于使用优质材料。在整个建造过程中，我们始终秉持公开沟通和透明的原则。"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: 我们的价值观
+    text: "我们相信，ADU 不仅仅是建筑，更是您家园和价值观的延伸。我们致力于可持续的建筑实践、透明的沟通和超越您的期望。"
 ---
-
